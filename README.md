@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-
-
-
-Always updating..
+🔭 Rabbit hole explorer 
+💬 Data Analyst
+😄 Pronouns: he/him
+🏗 Learning Web Development
+🏡 website | 🐦 twitter | 👔 
 

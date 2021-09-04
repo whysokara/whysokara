@@ -1,3 +1,2 @@
-### Hi there 👋
+### Hi there, I'm kara 👋
 
-Updating..

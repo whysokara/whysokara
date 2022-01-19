@@ -1,6 +1,6 @@
 ### Hi there, I'm kara 👋
 
-🌱 Product | Tech | Design  
+🌱 Product | web3 | Design  
 🥅 2022 Goals: Experiment, learn and build stuffs with my skillsets.  
 ⚡ Fun fact: I love to Google and make puns.  
 

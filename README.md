@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm kara</h1>
 <h3 align="center">build</h3>
 
-- 🌱 I’m currently learning **Deep Learning using PyTorch**
-- 📫 How to reach me **kara_himanshu@yahoo.com**
+- 🌱 
+- 📫 reach me **kara_himanshu@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

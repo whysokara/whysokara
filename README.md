@@ -1,8 +1,6 @@
-![WakaTime](https://wakatime.com/badge/user/${{secrets.WAKATIME_API_KEY}}/weekly.svg)
 <h1 align="center">Hi 👋, I'm kara</h1>
 <h3 align="center">build</h3>
 
-- 🌱 
 - 📫 reach me **kara_himanshu@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>

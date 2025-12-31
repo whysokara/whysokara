@@ -1,27 +1,89 @@
-<h1 align="center">Hi 👋, I'm kara</h1>
-<h3 align="center">.....</h3>
+<h1 align="center">Kara</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whysokara&label=Profile%20views&color=0e75b6&style=flat" alt="whysokara" /> </p>
-
-<p align="left"> <a href="https://twitter.com/whysokara" target="blank"><img src="https://img.shields.io/twitter/follow/whysokara?logo=twitter&style=for-the-badge" alt="whysokara" /></a> </p>
-
-- 🌱 I’m currently learning **Python, Databricks**
-
-- 📫 How to reach me **kara_himanshu@yahoo.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/whysokara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whysokara" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/karahimanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karahimanshu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kara_himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kara_himanshu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kara_himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kara_himanshu" height="30" width="40" /></a>
+<p align="center">
+Data Engineer • Analytics Engineer • Blockchain Data Systems
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=whysokara&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whysokara&show_icons=true&locale=en&layout=compact" alt="whysokara" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whysokara&show_icons=true&locale=en" alt="whysokara" /></p>
+## Focus
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whysokara&" alt="whysokara" /></p>
+- End-to-end **data engineering pipelines**
+- **Blockchain analytics** and on-chain data (Solana, Ethereum)
+- Batch processing and lakehouse architectures
+- Production-grade data modeling and transformations
+
+---
+
+## Tech Stack
+
+### Data Engineering & Analytics
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache_spark/apache_spark-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+</p>
+
+---
+
+### Cloud & Platforms
+<p>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/databricks/brand/master/logos/standalone/db-logo.png" width="40"/>
+</p>
+
+---
+
+### Blockchain & Web3
+<p>
+  <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=026" width="40"/>
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=026" width="40"/>
+</p>
+
+---
+
+### Dev & Tooling
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+</p>
+
+---
+
+## Connect
+
+<p>
+<a href="https://twitter.com/whysokara">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30"/>
+</a>
+<a href="https://linkedin.com/in/karahimanshu">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
+</a>
+<a href="https://www.hackerrank.com/kara_himanshu">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="30"/>
+</a>
+<a href="https://www.leetcode.com/kara_himanshu">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30"/>
+</a>
+</p>
+
+📫 **kara_himanshu@yahoo.com**
+
+---
+
+## What you will find here
+
+- Spark-based batch pipelines
+- Blockchain transaction and payment analytics
+- Bronze → Silver → Gold data modeling
+- Cloud-portable data systems
+
